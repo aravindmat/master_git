@@ -1,5 +1,5 @@
-## Hello everyone welcome to my Git guide !!
+## Welcome to Git !!
 
-- Yooo, Johnn here!
+- This is coming from dev-Arrow
 - I'm adding this from 'feature-branch'
  
